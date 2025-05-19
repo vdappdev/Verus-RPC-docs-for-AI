@@ -1,6 +1,7 @@
 registernamecommitment help command followed by examples with outputs:
 
-notes:  
+notes:
+- registernamecommitment and registeridentity are used in the workflow to create a VerusID  
 - names are not case-sensitive, and can include emojis, numbers, letters, and most symbols
 - IDs can be a root ID or a sub-ID.  The root ID is child, the chain is the parent and system (example: "Pear.vrsctest@") The sub-ID is child, the currency it's defined from is parent, the chain is system (example:"Pear.kaiju.vrsctest@" aka "Pear.kaiju@")
 - the command's output/result is used as part of the "registeridentity" command to complete the process of registering an ID.

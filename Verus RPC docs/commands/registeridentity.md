@@ -1,6 +1,7 @@
 registeridentity help command followed by examples with outputs:
 
 notes:
+- registernamecommitment and registeridentity are used in the workflow to create a VerusID
 - the resulting txid from "registernamecommitment" is used as part of the "registeridentity" command
 - IDs have required parameters and optional parameters. Required parameters include "name", "primaryaddresses", and "minimumsignatures". Optional parameters include "privateaddress", "revocationauthority", "recoveryauthority", "timelock", "contentmultimap", and more.
 - revocationauthority and recoveryauthority can be the same ID, or they can be 2 different ID's.
