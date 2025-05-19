@@ -63,7 +63,7 @@ EXAMPLES & OUTPUTS/RESULTS:
     2. for the sub-ID pear.kaiju@:
 
 
-    ./verus registeridentity '{"txid": "ae1b27aec77140b90e58d5632b619e310c0a944ec548a1189d722d721c5c41ca",
+./verus registeridentity '{"txid": "ae1b27aec77140b90e58d5632b619e310c0a944ec548a1189d722d721c5c41ca",
   "namereservation": {
     "version": 1,
     "name": "Pear",
@@ -80,7 +80,7 @@ d70f41e29b4c82267bef0b42bfa1dafd6550b7301cccacafea64c102f0f0bd7e
     3. registeridentity including privateaddress, revocationauthority, and recoveryauthority:
 
 
-    ./verus registeridentity '{"txid": "f04f38ea5c173f82cab8b4bbe0574ea0612c87006787950c41f9cbbe9a7b551a",
+./verus registeridentity '{"txid": "f04f38ea5c173f82cab8b4bbe0574ea0612c87006787950c41f9cbbe9a7b551a",
   "namereservation": {
     "version": 1,
     "name": "AI2",
