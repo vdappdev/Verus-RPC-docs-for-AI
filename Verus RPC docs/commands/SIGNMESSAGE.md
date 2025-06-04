@@ -1,3 +1,6 @@
+signmessage & verifysignature
+
+
 SIGNMESSAGE
 
 
