@@ -40,3 +40,9 @@ updateidentity '{"name":"AI2@", "primaryaddresses":["RGi75h173LD84tTThCu73B9Dp6r
 
 c31c0b50e6b2adb032008abc12d983e40de183bb85116f355855a99e62551cb9
 
+
+
+run updateidentity '{"name":"dev test@", "primaryaddresses":["RGi75h173LD84tTThCu73B9Dp6rupM5zoz", "RPSGdnEa5dU61hE7CbhN8D9PSR7q3ZSgUs"], "minimumsignatures":1, "revocationauthority":"dev28@", "recoveryauthority":"dev28@"}' "" "" "0.0001" "dev28@"
+
+30a6df3e4db7d3b847e0bb10f99bbee2ce69008f79a1d093c0aa273bcba47be7
+
